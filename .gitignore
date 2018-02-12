@@ -1,0 +1,7 @@
+HelloWorldJenkins/obj/
+HelloWorldTests/bin/
+HelloWorldTests/obj/
+packages/MSTest.TestAdapter.1.1.18/build/
+packages/MSTest.TestFramework.1.1.18/lib/
+TestResults/guvi_SURFACE30 2018-02-12 18_35_47/Out/
+HelloWorldJenkins/bin/
